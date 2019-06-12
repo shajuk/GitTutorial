@@ -1,3 +1,3 @@
 # Git Tutorial
 
-### Examples
+### How to use Git
