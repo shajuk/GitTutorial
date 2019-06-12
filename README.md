@@ -1,3 +1,3 @@
 # Git Tutorial
 
-### Git is awesome
+### Git is complex
