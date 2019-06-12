@@ -1,3 +1,3 @@
 # Git Tutorial
 
-### How to use Git
+### Git is awesome
